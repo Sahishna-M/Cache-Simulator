@@ -1,3 +1,4 @@
+# Cache-Simulator
 Basic functionality:
 CACHE is configurable in terms of supporting any cache size, associativity, and block size, specified at the beginning of simulation: 
 o SIZE: Total bytes of data storage. 
